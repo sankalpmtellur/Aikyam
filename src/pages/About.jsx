@@ -4,8 +4,6 @@ import {
   Quote,
   ShieldCheck,
   Heart,
-  Users,
-  MapPin,
   CheckCircle2,
 } from "lucide-react";
 import Exterior2 from "../assets/Exterior2.png";
