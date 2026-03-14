@@ -1,12 +1,10 @@
 import React from "react";
 import {
   Phone,
-  Mail,
   MessageSquare,
   MapPin,
   Clock,
   Send,
-  Globe,
 } from "lucide-react";
 
 const Contact = () => {
